@@ -56,4 +56,5 @@ Anyone is welcome to join ongoing narrative play at any time. All you need to do
 
 - Take time to craft your roster, paint, and name your models. It's more fun for everyone when everybody is invested in their team!
 - Try not to progress for more than twice a week. You can continue to play games with your narrative roster, but don't perform the aftermath sequence on games after your second. This is an effort to keep everyone at roughly the same place.
+- If your opponent has a quest battleplan to do, let them do it!
 - If you and your opponent both have a quest battleplan to do, roll off to choose.

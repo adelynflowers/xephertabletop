@@ -16,7 +16,7 @@ If you're interested in Warcry or Kill Team, join us for a tutorial at one of Xe
 
 - **Scheduling**: Every other Thursday from 6pm-10pm
 - **Playstyle**: Typically 2k Age of Fantasy/Grimdark Future, but other playstyles often available
-- For more details [click here to visit the NC OPR website](https://onepagerulesnc.com)
+- For more details [click here to visit the NC OPR website](https://northcarolinaopr.com)
 
 ## Kill Team
 
