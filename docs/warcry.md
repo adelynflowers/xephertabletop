@@ -58,3 +58,60 @@ Anyone is welcome to join ongoing narrative play at any time. All you need to do
 - Try not to progress for more than twice a week. You can continue to play games with your narrative roster, but don't perform the aftermath sequence on games after your second. This is an effort to keep everyone at roughly the same place.
 - If your opponent has a quest battleplan to do, let them do it!
 - If you and your opponent both have a quest battleplan to do, roll off to choose.
+
+## Rule Clarifications
+
+#### Is picking up treasure an action?
+
+No, from [Warcrier](https://warcrier.net/docs/rules/objectives-and-treasure-tokens):
+
+> If at any point during a move action a fighter moves within 1" of a treasure token, the fighter can pick up that treasure. Remove the token from the battlefield. That fighter is now carrying that treasure. A fighter cannot pick up treasure if they are already carrying treasure. Fighters with the Monster runemark or Beast runemark cannot carry treasure.
+
+#### Can I pick up treasure if I'm within 1" of an enemy fighter?
+
+Yes, see above.
+
+#### How close do I have to be to control an objective?
+
+3" from the center of the marker. So the control range of an objective is a 3" sphere with it's origin in the center of the marker.
+
+_Reference_: [Warcrier link](https://warcrier.net/docs/rules/objectives-and-treasure-tokens#controlling-objectives)
+
+#### Can I move here?
+
+Yes, if:
+
+1. The fighter physically fits there.
+2. You can physically move your base to the destination. If you can't fit through a tight hallway, you can't make the move.
+
+#### If I have an enemy within 1" of me, can I shoot at someone else?
+
+No.
+
+_Reference_: [Warcrier link](https://warcrier.net/docs/rules/attack-actions#1-pick-a-weapon-and-target)
+
+#### Can I shoot at a target who is within 1" of an ally?
+
+Not unless you're within 3" of the target.
+
+#### Can I move within 1" of an enemy?
+
+Yes, as long as you start the move more than 1" from any other enemy fighter.
+
+#### Is a disengage a move action?
+
+No.
+
+_Reference_: [Warcrier link](https://warcrier.net/docs/rules/other-actions#disengage-actions)
+
+#### Can I use a reaction if I've already activated?
+
+No\*, reactions cost one action to use.
+
+_\* Unless you used **Wait** and have an action left_
+
+#### Can I wait for my second action?
+
+Strictly speaking yes, but this is equivalent to doing nothing. Wait only works if you use it as your first action, which allows you to activate that fighter with a single action at a later point.
+
+_Reference_: [Warcrier link](https://warcrier.net/docs/rules/other-actions#wait-actions)
