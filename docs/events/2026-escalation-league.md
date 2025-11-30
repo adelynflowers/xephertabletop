@@ -112,23 +112,23 @@ We will be running 2 game nights a month specifically for escalation league part
 - **2/1/26**
     * _Built_: Spearhead
     * _Painted_: N/A
-    * _Game Nights: Spearhead
+    * _Game Nights_: Spearhead
 - **3/1/26**
     * _Built_: 750pts
     * _Painted_: Spearhead
-    * _Game Nights: Spearhead
+    * _Game Nights_: Spearhead
 - **4/1/26**
     * _Built_: 1000pts, Faction Terrain, Endless Spells
     * _Painted_: 750pts
-    * _Game Nights: 1000pts Core Rules
+    * _Game Nights_: 1000pts Core Rules
 - **5/1/26**
     * _Built_: 1500pts
     * _Painted_: 1000pts, Faction Terrain, Endless Spells
-    * _Game Nights: 1000pts GHB
+    * _Game Nights_: 1000pts GHB
 - **6/1/26**
     * _Built_: 2000pts
     * _Painted_: 1500pts
-    * _Game Nights: 2000pts GHB
+    * _Game Nights_: 2000pts GHB
 - **7/1/26**
     * _Built_: 2000pts
     * _Painted_: 2000pts
