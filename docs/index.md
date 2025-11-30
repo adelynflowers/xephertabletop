@@ -10,7 +10,7 @@ If you're interested in Warcry or Kill Team, join us for a tutorial at one of Xe
 
 - **Scheduling**: Every sunday 4-8pm
 - **Playstyle**: 1000pts matched play or narrative play with Xepher campaign warbands
-- For more details [click here to visit the Warcry page](./warcry.md)
+- For more details [click here to visit the Warcry page](./games/warcry.md)
 
 ## One Page Rules
 
